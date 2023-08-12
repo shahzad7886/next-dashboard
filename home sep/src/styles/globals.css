@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  background-color: #0e2b58;
+}
+
+@media only screen and (max-width: 1350px) and (min-width: 1260px) {
+  .cartPosition {
+    top: -150px;
+  }
+}

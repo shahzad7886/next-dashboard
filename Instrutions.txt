@@ -1,0 +1,24 @@
+Page COUPONS: 
+
+On the Coupons page, we need to create two cards:
+
+with different colors
+
+With the information in the image, this information will be received later through the backend API.
+
+They will have unlimited cards, we need to create a page, where each page can have up to 5 lines of cards.
+
+Page NEXT DRAWS:
+
+We will have 5 fixed cards, with the information already mocked.
+
+This page will not pull data from the API.
+
+Page INDICATIONS:
+
+On this page, whenever the user accesses the indications page and he has not created his username, the page with the field for him to create his username should be displayed.
+
+Once the username is created, this page is no longer displayed.
+
+On the page where the user visualizes the indications, there will be a table with pagination.
+
